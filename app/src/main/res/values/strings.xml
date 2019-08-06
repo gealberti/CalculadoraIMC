@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CalculadoraIMC</string>
+    <string name="bemvindo">Calculadora de IMC</string>
+    <string name="dica">O Email é generico@email.com e a senha é 123</string>
+</resources>
